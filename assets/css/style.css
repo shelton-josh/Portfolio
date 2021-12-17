@@ -9,11 +9,11 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #700000;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #a70b00;
   text-decoration: none;
 }
 
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #149ddd;
+  background: #700000;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2eafec;
+  background: #a70b00;
   transition: background 0.2s ease-in-out;
 }
 
@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #140404;
   overflow-y: auto;
 }
 
@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 8px solid #351c1c;
 }
 
 #header .profile h1 {
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #351c1c;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #9b4f4f;
   color: #fff;
   text-decoration: none;
 }
@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #a70b00;
 }
 
 /* Mobile Navigation */
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #149ddd;
+  color: #700000;
 }
 
 .mobile-nav-active {
@@ -595,10 +595,10 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #a70b00;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #149ddd;
+  border: 1px solid #440500;
 }
 
 .services .icon i {
@@ -611,7 +611,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #149ddd;
+  color: #700000;
 }
 
 .services .title {
