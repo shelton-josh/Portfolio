@@ -733,7 +733,7 @@ section {
 --------------------------------------------------------------*/
 .contact {
   width: 100%;
-  height: 107vh;
+  height: 125vh;
   background: url("../img/208131-canyon-Bryce_Canyon_National_Park-sunlight-clouds-landscape-desert-rock_formation.jpg") left;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -746,9 +746,6 @@ section {
   padding: 30px;
   background: #fff;
   width: 100%;
-  position:absolute;
-  left: 65%;
-  justify-content: center;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -871,8 +868,8 @@ section {
   margin: 0 10px -6px 0;
   border: 3px solid #18d26e;
   border-top-color: #eee;
-  -webkit-animation: animate-loading 1s linear infinite;
-  animation: animate-loading 1s linear infinite;
+  -webkit-animation: animate-loading 4s linear infinite;
+  animation: animate-loading;
 }
 
 .contact .php-email-form input, .contact .php-email-form textarea {
